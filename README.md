@@ -1,4 +1,4 @@
-Code from the paper available for public use "Hemodynamic changes after general anesthesia induction as a predictor for ICU admission: a retrospective study"  This script was written in the R language, and all the following packages should be run in its environment. 
+The paper codes are available for public use "Hemodynamic changes after general anesthesia induction as a predictor for ICU admission: a retrospective study"  This script was written in the R language, and all the following packages should be run in its environment. 
 
 This study will examine whether hemodynamic changes and cardiovascular support after induction of general anesthesia for noncardiac procedures are predictive of postoperative ICU admission.
 
